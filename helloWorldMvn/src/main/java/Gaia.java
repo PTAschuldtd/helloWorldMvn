@@ -17,7 +17,7 @@ public class Gaia {
 	}
 	
 	public static String ping(){
-		return "ping";
+		return "pung";
 	}
 	
 	public static String pong(){
